@@ -4,4 +4,13 @@
   <artifactId>mail-model</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <description>Contains all the pojos for the PCF Mail Manager</description>
+  
+  <dependencies>
+	  <dependency>
+		<groupId>javax.persistence</groupId>
+		<artifactId>persistence-api</artifactId>
+		<version>1.0.2</version>
+	  </dependency>
+  </dependencies>
+  
 </project>

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jul 23 19:37:29 EDT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-014e-bd47-65f6-0000100873b8 
+on database directory memory:/Users/lshannon/Documents/pcf-mail-manager/mail-list-manager/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/Users/lshannon/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b14
+user.dir=/Users/lshannon/Documents/pcf-mail-manager/mail-list-manager
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.9.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
